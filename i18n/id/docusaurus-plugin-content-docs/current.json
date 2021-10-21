@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Lanjut",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Setup": {
+    "message": "Mempersiapkan",
+    "description": "The label for category Setup in sidebar tutorialSidebar"
+  }
+}
