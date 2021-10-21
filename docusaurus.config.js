@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Documentation for SPK TOPSIS",
-  tagline: "Here we go🔥",
-  url: "https://your-docusaurus-test-site.com",
+  title: "Docs SPK TOPSIS",
+  tagline: "Here we go 🔥",
+  url: "https://docsonline-spk.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

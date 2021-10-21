@@ -182,5 +182,14 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Docs SPK": {
+    "message": "Dokumentasi SPK TOPSIS"
+  },
+  "Here we go 🔥": {
+    "message": "Ini dia 🔥"
+  },
+  "Go to docs 📗": {
+    "message": "Pergi ke Dok 📗"
   }
 }
